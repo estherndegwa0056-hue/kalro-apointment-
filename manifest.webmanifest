@@ -1,0 +1,10 @@
+{
+  "name": "KALRO Dairy Institute",
+  "short_name": "KALRO Dairy",
+  "description": "Dairy livestock, animal feeds, chicks and farm services for farmers in Kenya.",
+  "lang": "en-KE",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#1d5527",
+  "background_color": "#f7f8f4"
+}

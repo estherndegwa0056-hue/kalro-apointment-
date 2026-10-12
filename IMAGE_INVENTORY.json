@@ -1,0 +1,310 @@
+[
+  {
+    "file": "assets/bales.jpg",
+    "size_bytes": 6175
+  },
+  {
+    "file": "assets/brown-bull.jpg",
+    "size_bytes": 8208
+  },
+  {
+    "file": "assets/calves.jpg",
+    "size_bytes": 9928
+  },
+  {
+    "file": "assets/cattle-card.jpg",
+    "size_bytes": 6003
+  },
+  {
+    "file": "assets/chicks-1.jpg",
+    "size_bytes": 11150
+  },
+  {
+    "file": "assets/chicks-2.jpg",
+    "size_bytes": 12982
+  },
+  {
+    "file": "assets/cow-card.jpg",
+    "size_bytes": 3452
+  },
+  {
+    "file": "assets/fodder.jpg",
+    "size_bytes": 20757
+  },
+  {
+    "file": "assets/gallery-cattle.jpg",
+    "size_bytes": 10376
+  },
+  {
+    "file": "assets/gallery-chicks.jpg",
+    "size_bytes": 12020
+  },
+  {
+    "file": "assets/gallery-gate.jpg",
+    "size_bytes": 10859
+  },
+  {
+    "file": "assets/gallery-herd.jpg",
+    "size_bytes": 10458
+  },
+  {
+    "file": "assets/gallery-lab.jpg",
+    "size_bytes": 9235
+  },
+  {
+    "file": "assets/gallery-person.jpg",
+    "size_bytes": 9593
+  },
+  {
+    "file": "assets/gallery-staff.jpg",
+    "size_bytes": 7909
+  },
+  {
+    "file": "assets/gallery-team.jpg",
+    "size_bytes": 11991
+  },
+  {
+    "file": "assets/goat.jpg",
+    "size_bytes": 7973
+  },
+  {
+    "file": "assets/hero-cattle.jpg",
+    "size_bytes": 32034
+  },
+  {
+    "file": "assets/order-modal-reference.png",
+    "size_bytes": 33371
+  },
+  {
+    "file": "assets/reference-1.png",
+    "size_bytes": 316887
+  },
+  {
+    "file": "assets/reference-2.png",
+    "size_bytes": 211908
+  },
+  {
+    "file": "assets/reference-3.png",
+    "size_bytes": 507605
+  },
+  {
+    "file": "assets/reference-4.png",
+    "size_bytes": 457234
+  },
+  {
+    "file": "assets/reference-5.png",
+    "size_bytes": 291670
+  },
+  {
+    "file": "assets/reference-6.png",
+    "size_bytes": 18970
+  },
+  {
+    "file": "assets/seeds.jpg",
+    "size_bytes": 24344
+  },
+  {
+    "file": "assets/sheep.jpg",
+    "size_bytes": 7090
+  },
+  {
+    "file": "assets/site-images/big-eggs.jpg",
+    "size_bytes": 24305
+  },
+  {
+    "file": "assets/site-images/chick-1-3-days-old.jpg",
+    "size_bytes": 20174
+  },
+  {
+    "file": "assets/site-images/chick-1-month-old.jpg",
+    "size_bytes": 20019
+  },
+  {
+    "file": "assets/site-images/chick-1-week-old.jpg",
+    "size_bytes": 20026
+  },
+  {
+    "file": "assets/site-images/chick-2-weeks-old.jpg",
+    "size_bytes": 20268
+  },
+  {
+    "file": "assets/site-images/chick-3-months-old.jpg",
+    "size_bytes": 20282
+  },
+  {
+    "file": "assets/site-images/chick-4-months-old.jpg",
+    "size_bytes": 20250
+  },
+  {
+    "file": "assets/site-images/chick-5-months-old.jpg",
+    "size_bytes": 20293
+  },
+  {
+    "file": "assets/site-images/chicks-day-old-and-growing-1.jpg",
+    "size_bytes": 11150
+  },
+  {
+    "file": "assets/site-images/chicks-day-old-and-growing-2.jpg",
+    "size_bytes": 12982
+  },
+  {
+    "file": "assets/site-images/dry-maize.jpg",
+    "size_bytes": 20315
+  },
+  {
+    "file": "assets/site-images/feed-barley.jpg",
+    "size_bytes": 19097
+  },
+  {
+    "file": "assets/site-images/feed-boma-rhodes-hay.jpg",
+    "size_bytes": 20813
+  },
+  {
+    "file": "assets/site-images/feed-boma-rhodes-seeds.jpg",
+    "size_bytes": 21051
+  },
+  {
+    "file": "assets/site-images/feed-full-corn-silage.jpg",
+    "size_bytes": 20315
+  },
+  {
+    "file": "assets/site-images/feed-lucerne-hay.jpg",
+    "size_bytes": 19720
+  },
+  {
+    "file": "assets/site-images/feed-lucerne-seed.jpg",
+    "size_bytes": 24344
+  },
+  {
+    "file": "assets/site-images/feed-lucerne-seeds.jpg",
+    "size_bytes": 20252
+  },
+  {
+    "file": "assets/site-images/feed-mixed-hay-bale.jpg",
+    "size_bytes": 6175
+  },
+  {
+    "file": "assets/site-images/feed-molasses-supplement.jpg",
+    "size_bytes": 20605
+  },
+  {
+    "file": "assets/site-images/feed-molasses.jpg",
+    "size_bytes": 19420
+  },
+  {
+    "file": "assets/site-images/feed-non-full-corn-silage.jpg",
+    "size_bytes": 21106
+  },
+  {
+    "file": "assets/site-images/feed-pasture-grass-seed.jpg",
+    "size_bytes": 24344
+  },
+  {
+    "file": "assets/site-images/feed-rhodes-grass-hay.jpg",
+    "size_bytes": 20757
+  },
+  {
+    "file": "assets/site-images/feed-seeds.jpg",
+    "size_bytes": 24344
+  },
+  {
+    "file": "assets/site-images/feed-wheat-bran.jpg",
+    "size_bytes": 24344
+  },
+  {
+    "file": "assets/site-images/gallery-agricultural-staff.jpg",
+    "size_bytes": 7909
+  },
+  {
+    "file": "assets/site-images/gallery-chicks.jpg",
+    "size_bytes": 12020
+  },
+  {
+    "file": "assets/site-images/gallery-dairy-cattle-closeup.jpg",
+    "size_bytes": 10376
+  },
+  {
+    "file": "assets/site-images/gallery-dairy-herd.jpg",
+    "size_bytes": 10458
+  },
+  {
+    "file": "assets/site-images/gallery-dairy-laboratory.jpg",
+    "size_bytes": 9235
+  },
+  {
+    "file": "assets/site-images/gallery-farm-entrance.jpg",
+    "size_bytes": 10859
+  },
+  {
+    "file": "assets/site-images/gallery-farm-inspection.jpg",
+    "size_bytes": 9593
+  },
+  {
+    "file": "assets/site-images/gallery-farm-team.jpg",
+    "size_bytes": 11991
+  },
+  {
+    "file": "assets/site-images/hampshire-down-sheep.jpg",
+    "size_bytes": 7090
+  },
+  {
+    "file": "assets/site-images/header-cow-emoji.png",
+    "size_bytes": 2506
+  },
+  {
+    "file": "assets/site-images/hero-premium-dairy-cattle.jpg",
+    "size_bytes": 32034
+  },
+  {
+    "file": "assets/site-images/kienyeji-eggs.jpg",
+    "size_bytes": 24305
+  },
+  {
+    "file": "assets/site-images/medium-eggs.jpg",
+    "size_bytes": 24305
+  },
+  {
+    "file": "assets/site-images/product-ayrshire-pedigree-bull.jpg",
+    "size_bytes": 8208
+  },
+  {
+    "file": "assets/site-images/product-dorper-sheep.jpg",
+    "size_bytes": 7090
+  },
+  {
+    "file": "assets/site-images/product-fleckvieh-dairy-cow.jpg",
+    "size_bytes": 42921
+  },
+  {
+    "file": "assets/site-images/product-friesian-cattle.jpg",
+    "size_bytes": 6003
+  },
+  {
+    "file": "assets/site-images/product-friesian-lactating-cow.jpg",
+    "size_bytes": 3452
+  },
+  {
+    "file": "assets/site-images/product-full-blood-boer-goat.jpg",
+    "size_bytes": 7973
+  },
+  {
+    "file": "assets/site-images/product-jersey-dairy-cow.jpg",
+    "size_bytes": 5600
+  },
+  {
+    "file": "assets/site-images/product-sahiwal-cross-heifer.jpg",
+    "size_bytes": 9928
+  },
+  {
+    "file": "assets/site-images/saanen-dairy-goat.jpg",
+    "size_bytes": 7973
+  },
+  {
+    "file": "assets/supplement.jpg",
+    "size_bytes": 20605
+  },
+  {
+    "file": "assets/white-cattle.jpg",
+    "size_bytes": 5600
+  }
+]
